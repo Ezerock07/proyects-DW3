@@ -8,7 +8,7 @@ In the project directory, you can run all project dependencies
 
 ## npm i
 
-in the terminal for isntall all 
+in the terminal for isntall all project dependencies 
 
 ### `npm start`
 
